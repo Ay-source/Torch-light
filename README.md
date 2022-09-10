@@ -1,5 +1,5 @@
 # Torch-light
-Description: CAD design of a torch light using SOLIDWORKS
+Description: CAD design of the container of a torch light using SOLIDWORKS
 
 # Visualize
 ## Full body
